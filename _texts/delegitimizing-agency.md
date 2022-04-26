@@ -4,7 +4,7 @@ title: "Delegitimizing Agency: A Trans Woman's Meditation on Crypto"
 author: Ariel Silvestri
 date: 2022-04-25
 hook: Anti-trans and crypto voices sing similar tunes. This post provides examples and background so you can better identify and critique their harmful words. 
-permalink: delegitimizing-agency
+permalink: /delegitimizing-agency/
 ---
 
 <small><em>[Content Warnings for this piece: transphobia, transmisogyny, homophobia]</em></small>
