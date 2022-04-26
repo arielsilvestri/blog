@@ -3,7 +3,7 @@ layout: post
 title: "Delegitimizing Agency: A Trans Woman's Meditation on Crypto"
 author: Ariel Silvestri
 date: 2022-04-25
-hook: Anti-trans and crypto voices sing similar tunes. This post provides examples and background so you can better identify and critique their harmful words. 
+hook: Uncovering the similarities in the harmful viewpoints and tactics of anti-trans and pro-cryptocurrency individuals. 
 permalink: /delegitimizing-agency/
 ---
 
@@ -25,7 +25,7 @@ There are chilling parallels with the anti-trans voices I've encountered during 
 
 ## Transition as an Expression of Your Agency
 
-Consider, for a moment, the following: "When trans folks talk about positive aspects of their transition, what are the common themes? Gender euphoria—that feeling of seeing yourself in the way you’ve always yearned for – is a popular one. Bodily autonomy, self-love, exploration, community are common themes you’ll encounter if you spend some time around transgender folks. <mark>What they all share in common is this concept of agency, through which we assert ourselves and our existence in the face of a hostile world.</mark>
+Consider, for a moment, the following: "When trans folks talk about positive aspects of their transition, what are the common themes?" Gender euphoria—that feeling of seeing yourself in the way you’ve always yearned for – is a popular one. Bodily autonomy, self-love, exploration, community are common themes you’ll encounter if you spend some time around transgender folks. <mark>What they all share in common is this concept of agency, through which we assert ourselves and our existence in the face of a hostile world.</mark>
 
 There’s something special about how freeing transitioning feels after years of conformity, building community in ways I’ve never really experienced elsewhere. The resources we have, chiefly the principle of informed consent, open the door for us to explore what we want out of transition, and it is through informed consent that we are given the opportunity to express our agency fully and without resistance.
 
